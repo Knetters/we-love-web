@@ -57,6 +57,7 @@ html {
 .intro-block p {
   margin: 0;
   width: 55%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .intro-block h2 {
@@ -114,6 +115,10 @@ html {
 
 .post-content {
   padding: 1em;
+}
+
+.post-content p {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #start .flex-items:nth-child(1) {
