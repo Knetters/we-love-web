@@ -121,6 +121,10 @@ html {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.post-content h2 {
+  margin-top: -.2em;
+}
+
 #start .flex-items:nth-child(1) {
   display: block;
   flex-grow: 0;
