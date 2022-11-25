@@ -79,6 +79,7 @@ li {
 .intro-block p {
   margin: 0;
   width: 55%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .intro-block h2 {
@@ -136,6 +137,14 @@ li {
 
 .post-content {
   padding: 1em;
+}
+
+.post-content p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-content h2 {
+  margin-top: -.2em;
 }
 
 #start .flex-items:nth-child(1) {
