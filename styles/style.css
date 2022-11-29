@@ -20,12 +20,34 @@ html {
   display: flex;
   margin: 0;
   height: 5vh;
-  background-color: transparent;
+  background-color: #161313;
+  border-bottom: #C5C9A4 4px solid;
+  z-index: 100;
 }
 
 .name {
-  padding-left: 4em;
   width: 50%;
+  float: left;
+}
+
+.inner-top-bar {
+  width: 80%;
+  margin-left: 10%;
+}
+
+nav {
+  width: 50%;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+  margin-left: 2em;
 }
 
 /* start styling */
