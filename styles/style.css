@@ -31,8 +31,8 @@ html {
 }
 
 .inner-top-bar {
-  width: 80%;
-  margin-left: 10%;
+  width: 100%;
+  padding: 0 2em 0em 2em;
 }
 
 nav {
