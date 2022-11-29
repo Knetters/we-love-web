@@ -110,7 +110,7 @@ li {
   padding: 0 1em 0 1em;
   border-radius: 10px;
   margin-bottom: 2em;
-  transition: .3s;
+  transition: .3s ease-in-out;
   height: 90%;
 }
 
