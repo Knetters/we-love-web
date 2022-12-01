@@ -109,7 +109,7 @@ li {
   color: black;
   padding: 0 1em 3em 1em;
   border-radius: 10px;
-  transition: .3s ease-in-out;
+  transition: .2s ease-in-out;
   height: 85%;
 }
 
@@ -165,6 +165,7 @@ li {
   font-size: 4em;
   padding: 0;
   margin: 0;
+  text-shadow: 0px 3px #b4b4b4;
 }
 
 .color-text-content {
