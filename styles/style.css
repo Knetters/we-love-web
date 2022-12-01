@@ -217,3 +217,10 @@ footer {
 	justify-content: center;
   background-color: #5c85d6;
 }
+
+@media only screen and (min-width: 1920px) {
+  .outer-wrapper {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
