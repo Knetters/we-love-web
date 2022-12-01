@@ -20,7 +20,7 @@ html {
   display: flex;
   margin: 0;
   height: 5vh;
-  background-color: #161313;
+  background-color: #000000;
   border-bottom: #C5C9A4 4px solid;
   z-index: 100;
 }
@@ -55,7 +55,7 @@ li {
   margin: 0;
   height: 100vh;
   display: grid;
-  background-color: #262626;
+  background-color: #101010;
   color: white;
 }
 
