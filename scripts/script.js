@@ -1,9 +1,9 @@
 var audio = $("#audio")[0];
 $(".color-content").mouseenter(function() {
   audio.play();
-});ss
+});
 
-//Json inladen
+//Json color-content inladen
 const post_El = document.querySelector(".json-post-container");
 
 fetch("https://knetters.github.io/we-love-web/scripts/posts.json")
