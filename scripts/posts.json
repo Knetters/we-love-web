@@ -2,9 +2,9 @@
     {
         "Id": "01",
 
-        "title": "Tim is een koe",
-        "speaker": "",
-        "date": "",
+        "title": "Introduction to Web Accessibility Testing",
+        "speaker": "Manuel Matuzović",
+        "date": "12-09-2022",
 
         "categorie": "",
         "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
