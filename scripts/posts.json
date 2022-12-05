@@ -20,9 +20,9 @@
     {
         "Id": "02",
 
-        "title": "We love web post title",
-        "speaker": "",
-        "date": "",
+        "title": "CSS trickery",
+        "speaker": "Sanne 't Hooft",
+        "date": "16-09-2022",
 
         "categorie": "",
         "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
