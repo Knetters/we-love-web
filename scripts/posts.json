@@ -1,0 +1,70 @@
+[
+    {
+        "Id": "01",
+
+        "title": "We love web post title",
+        "speaker": "",
+        "date": "",
+
+        "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "content": "",
+
+        "image1": "",
+        "image2": "",
+        "image3": "",
+
+        "color": "clr-purple",
+        "//color choices":  "clr-purple clr-green clr-yellow clr-white"
+    },
+    {
+        "Id": "02",
+
+        "title": "We love web post title",
+        "speaker": "",
+        "date": "",
+
+        "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "content": "",
+
+        "image1": "",
+        "image2": "",
+        "image3": "",
+
+        "color": "clr-green",
+        "//color choices":  "clr-purple clr-green clr-yellow clr-white"
+    },
+    {
+        "Id": "03",
+
+        "title": "We love web post title",
+        "speaker": "",
+        "date": "",
+
+        "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "content": "",
+
+        "image1": "",
+        "image2": "",
+        "image3": "",
+
+        "color": "clr-yellow",
+        "//color choices":  "clr-purple clr-green clr-yellow clr-white"
+    },
+    {
+        "Id": "04",
+
+        "title": "We love web post title",
+        "speaker": "",
+        "date": "",
+
+        "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "content": "",
+
+        "image1": "",
+        "image2": "",
+        "image3": "",
+
+        "color": "clr-white",
+        "//color choices":  "clr-purple clr-green clr-yellow clr-white"
+    }
+]
