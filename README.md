@@ -1,4 +1,4 @@
-# WE <3 WEB
+# WE ♥ WEB
 _________________________________________________________________________________________________
 
 :postal_horn: Inhoud
@@ -22,8 +22,6 @@ ________________________________________________________________________________
 :postal_horn: De live versie is te vinden op: [https://knetters.github.io/coding-the-curbs/](https://knetters.github.io/we-love-web/)
 
 De mobiele web applicatie is te bekijken door te inspecteren in de browser en responsive design aan te klikken.
-<img width="113" alt="image" src="https://user-images.githubusercontent.com/112857190/200806462-934b5ea9-5b47-4288-83dc-6446e56e2b72.png">
-
 _________________________________________________________________________________________________
 
 :postal_horn: Dit project is gemaakt met de volgende talen:
@@ -35,11 +33,9 @@ ________________________________________________________________________________
 
 :postal_horn: Installatie: Je kan de bestandsmap downloaden of het project clonen; je hoeft verder niks te installeren. Om de website lokaal te bekijken kan je het index.html bestand openen.
 _________________________________________________________________________________________________
-
 ```
 Gemaakt door Thomas.
 ```
-
 :postal_horn: Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
