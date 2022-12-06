@@ -9,7 +9,7 @@ ________________________________________________________________________________
  * Installatie
 _________________________________________________________________________________________________
 
-<img width="888" alt="image" src="[https://user-images.githubusercontent.com/112857190/200804976-07d35ad8-a6de-47ca-b005-1b8c7e23a569.png](https://user-images.githubusercontent.com/60781257/205979678-29902046-8b83-49d9-8b1a-5f6ab9bd762f.png)">
+![we-love-web](https://user-images.githubusercontent.com/60781257/205979678-29902046-8b83-49d9-8b1a-5f6ab9bd762f.png)
 
 :postal_horn: Introductie: Een blog voor het bijhouden van de We ♥ Web sessies.
 
