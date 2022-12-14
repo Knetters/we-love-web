@@ -126,7 +126,7 @@ li {
 }
 
 .color-content:hover {
-  margin-top: -1em;
+  transform: translateY(-1em);
   cursor: pointer;
 }
 

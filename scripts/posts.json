@@ -1,6 +1,6 @@
 [
     {
-        "Id": "01",
+        "id": "1",
 
         "title": "Introduction to Web Accessibility Testing",
         "speaker": "Manuel Matuzović",
@@ -18,7 +18,7 @@
         "//color choices":  "clr-purple clr-green clr-yellow clr-white"
     },
     {
-        "Id": "02",
+        "id": "2",
 
         "title": "CSS trickery",
         "speaker": "Sanne 't Hooft",
@@ -36,11 +36,11 @@
         "//color choices":  "clr-purple clr-green clr-yellow clr-white"
     },
     {
-        "Id": "03",
+        "id": "3",
 
         "title": "We love web post title",
-        "speaker": "",
-        "date": "",
+        "speaker": "Egor Kloos",
+        "date": "02-12-2022",
 
         "categorie": "",
         "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -54,7 +54,7 @@
         "//color choices":  "clr-purple clr-green clr-yellow clr-white"
     },
     {
-        "Id": "04",
+        "id": "4",
 
         "title": "We love web post title",
         "speaker": "",
