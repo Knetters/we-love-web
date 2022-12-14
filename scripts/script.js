@@ -40,7 +40,7 @@ function showPost(Id) {
       post_Cont.insertAdjacentHTML("beforeend", `
         <div class="insertedContent">
           <h2>${post.title}</h2>
-          <p>Door ${post.speaker}</p>
+          <p>Door ${post.speaker}, ${post.date}</p>
           <p>Door ${post.content}</p>
         </div>
       `);
