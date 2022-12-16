@@ -227,12 +227,17 @@ li {
   background-color: #101010;
 }
 
+.post-container {
+  padding-top: 5em;
+}
+
 #posts h2 {
   font-size: 3em;
-  padding: 1.5em 0em 0em 0em;
+  padding: .7em .7em .7em .5em;
   margin: 0;
-  color: white;
-  text-shadow: 0px 3px #b4b4b4;
+  color: black;
+  border-radius: 10px;
+  height: 20%;
 }
 
 #posts .outer-wrapper {
