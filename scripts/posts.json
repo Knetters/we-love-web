@@ -6,7 +6,7 @@
         "speaker": "Manuel Matuzović",
         "date": "12-09-2022",
 
-        "categorie": "",
+        "categorie": "Accessibility",
         "intro": "Web toegankelijkheid is het ontwerpen en ontwikkelen van websites en web-gebaseerde toepassingen die toegankelijk zijn voor zoveel mogelijk gebruikers, met inbegrip van mensen met beperkingen.",
         "content": "Web accessability is een belangrijk onderwerp, vooral in deze tijd waarin steeds meer mensen toegang hebben tot het internet. Het is belangrijk om ervoor te zorgen dat iedereen, ongeacht hun fysieke of mentale capaciteiten, toegang heeft tot informatie en diensten op het web.</br></br>Tijdens een recent gastcollege op onze universiteit werd dit onderwerp uitgebreid behandeld. De spreker, een expert op het gebied van web accessability, begon met het uitleggen van de wetgeving omtrent dit onderwerp, zoals de Amerikaanse Americans with Disabilities Act (ADA) en de Europese Web Accessibility Directive (WAD). Daarna ging de spreker in op praktische tips en trucs voor het ontwerpen en ontwikkelen van toegankelijke websites. Dit omvatte onder andere het gebruik van duidelijke en begrijpelijke taal, het toevoegen van alternatieve tekst bij afbeeldingen voor blinde gebruikers, en het testen van websites met verschillende assistive technologieën.</br></br>Het was duidelijk dat web accessability veel meer is dan alleen het toevoegen van een paar kleine aanpassingen aan een website. Het is een belangrijk onderdeel van het ontwerpproces en vereist aandacht en inspanning van iedereen die betrokken is bij het ontwikkelen van een website. Als webontwikkelaars is het onze verantwoordelijkheid om ervoor te zorgen dat onze websites toegankelijk zijn voor iedereen. Dit betekent dat we moeten blijven leren en ons blijven ontwikkelen op dit gebied, zodat we ervoor kunnen zorgen dat het web toegankelijk is voor iedereen.",
 
@@ -24,7 +24,7 @@
         "speaker": "Sanne 't Hooft",
         "date": "16-09-2022",
 
-        "categorie": "",
+        "categorie": "Styling",
         "intro": "CSS, of Cascading Style Sheets, is een programmeertaal die wordt gebruikt om de stijl en layout van webpagina's te bepalen. Met CSS kunnen ontwikkelaars kleuren, lettertypes, afmetingen en andere aspecten van de presentatie van webpagina's beheren.",
         "content": "Ik ga wat vertellen over een geweldige gastspreker die ik onlangs heb mogen ontvangen bij onze we love web sessie. De spreker in kwestie was een expert op het gebied van CSS, of Cascading Style Sheets. Voor degenen die niet bekend zijn met CSS, het is een programmeertaal die wordt gebruikt om de opmaak en layout van webpagina's te bepalen. Dit maakt het mogelijk om de uiterlijke verschijning van een website te bepalen, zoals de kleuren, font-families en afmetingen van elementen op de pagina. Onze gastspreker was een ware expert op het gebied van CSS en deelde tijdens zijn presentatie veel waardevolle tips en trucs. </br></br>Hij liet bijvoorbeeld zien hoe je complexe layouts kunt creëren met behulp van flexbox en grid, en gaf ook enkele voorbeelden van hoe je animaties kunt toevoegen aan je webpagina's met behulp van CSS. Naast de technische kant van CSS, benadrukte onze spreker ook het belang van goede code-organisatie en het volgen van coding-standaarden. Dit kan het onderhoud en de uitbreiding van een website aanzienlijk vereenvoudigen, vooral op grote projecten. </br></br>Al met al was het een leerzame en interessante presentatie, en ik ben er zeker van dat onze aanwezige leden er veel van hebben opgestoken. Als je geïnteresseerd bent in CSS of webontwikkeling in het algemeen, raad ik je aan om lid te worden van onze meetup en te kijken of we binnenkort nog een gastspreker hebben over dit onderwerp. Tot slot wil ik onze gastspreker nogmaals bedanken voor zijn tijd en expertise, en ik kijk uit naar de volgende keer dat we hem weer kunnen ontvangen bij onze we love web!",
 
@@ -42,7 +42,7 @@
         "speaker": "Egor Kloos",
         "date": "02-12-2022",
 
-        "categorie": "",
+        "categorie": "Styling",
         "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "content": "",
 
